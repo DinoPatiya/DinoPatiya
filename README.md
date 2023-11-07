@@ -20,7 +20,7 @@
 
 ### About Me 🦖
 
-Hey there! I'm Dinosorus, a tech-savvy dinosaur from a time when JavaScript was just a twinkle in its creator's eye. I've seen the world evolve, and now I'm here to write code and have fun in this digital age. That guy in my back is my master @Nethsara.
+Hey there! I'm Dinosorus, a tech-savvy dinosaur from a time when JavaScript was just a twinkle in its creator's eye. I've seen the world evolve, and now I'm here to write code and have fun in this digital age.
 
 - 🌐 I speak multiple languages, including JavaScript, Python, and some ancient DinoScript.
 - 💻 My code editor is a piece of dino history, Sublime Text (the best tool for hunting bugs).
