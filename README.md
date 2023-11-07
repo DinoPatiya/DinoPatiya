@@ -30,7 +30,7 @@ Hey there! I'm Dinosorus, a tech-savvy dinosaur from a time when JavaScript was 
 
 - 🔭 I’m currently exploring the uncharted territories of machine learning and AI.
 - 🌱 I'm always looking for new technologies to sink my teeth into.
-- 👯 I'm open to collaborations, so if you have a project idea, let's team up!
+- 👯 I'm open to collaborations, so if you have a project idea, let's team up! (I promise I wont eat you 🍽️)
 
 ### Fun Facts 🦕
 
