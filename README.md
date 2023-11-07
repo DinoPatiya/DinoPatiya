@@ -18,6 +18,8 @@
   <strong>Let's embark on a prehistoric coding journey!</strong>
 </p>
 
+Just discovered a new species: Codisaurus Rex – master of coding and roaring! 🦖💻
+
 ### About Me 🦖
 
 Hey there! I'm Dinosorus, a tech-savvy dinosaur from a time when JavaScript was just a twinkle in its creator's eye. I've seen the world evolve, and now I'm here to write code and have fun in this digital age.
