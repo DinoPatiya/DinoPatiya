@@ -41,6 +41,5 @@ Hey there! I'm Dinosorus, a tech-savvy dinosaur from a time when JavaScript was 
 ### Let's Connect 🌐
 
 - 🦖 Feel free to stalk my GitHub repositories, but please, no dinosaur-sized footprints!
-- 💬 You can reach me at Dinosorus@example.com.
-- 🦕 Follow me on Twitter @DinoCoder for more dino-themed tech updates.
+- 💬 You can reach me at x@siyum.me.
 
